@@ -1,0 +1,8 @@
+Algorithme Ecole
+Variables
+   ecole : Chaîne
+Début
+   Ecrire "Tu es dans quelle école d'ingénieur ?"
+   Lire ecole
+   Ecrire "Wow, ", ecole, " ! Ça doit être intéressant !"
+Fin

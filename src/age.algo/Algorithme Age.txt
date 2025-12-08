@@ -1,0 +1,8 @@
+Algorithme Age
+Variables
+   age : Entier
+Début
+   Ecrire "Quel âge as-tu ?"
+   Lire age
+   Ecrire "Ah, ", age, " ans ! Cool."
+Fin

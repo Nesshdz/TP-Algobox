@@ -1,0 +1,8 @@
+Algorithme Origine
+Variables
+   ville : Chaîne
+Début
+   Ecrire "Tu viens de quelle ville ?"
+   Lire ville
+   Ecrire "Ah ! ", ville, " c'est sympa !"
+Fin

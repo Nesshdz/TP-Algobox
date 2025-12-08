@@ -1,0 +1,8 @@
+Algorithme Bonjour
+Variables
+   nom : Chaîne
+Début
+   Ecrire "Quel est ton nom ?"
+   Lire nom
+   Ecrire "Bonjour, ", nom, " !"
+Fin
