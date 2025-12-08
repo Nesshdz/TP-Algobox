@@ -1,0 +1,21 @@
+Variables
+    prenom_ines est une chaîne
+    prenom_emy est une chaîne
+    message_ines est une chaîne
+    message_emy est une chaîne
+
+Début
+    // De base fait par Ines
+    prenom_ines ← "Inès"
+    message_ines ← "Salut Emy ! Tu travailles sur le projet Git ?"
+    afficher prenom_ines + ": " + message_ines
+
+    // Emy doit modifier ici
+    prenom_emy ← "Emy"
+    message_emy ← "Réponse à écrire par Emy dans la version 2 du programme"
+    afficher prenom_emy + ": " + message_emy
+
+    // Ines récupère et conclu avec les modifications faites par Emy
+    message_ines ← "Super ! On pourra pousser nos modifications sur GitHub."
+    afficher prenom_ines + ": " + message_ines
+Fin
